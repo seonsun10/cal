@@ -1,0 +1,40 @@
+/* 전체 컨테이너 */
+.cal_container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/* 계산기 틀 */
+.calBox{
+    width:400px;
+    height:600px;
+    border: 1px solid #ccc;
+    background-color: black;
+}
+
+/* 계산기 화면 */
+.cal_screen{
+    margin: 10px;
+    width:380px;
+    height:180px;
+    border: 1px solid #ccc;
+    background-color: #0b1c3f;
+}
+
+/* 계산기 패드 */
+.cal_buttons{
+    margin: 10px;
+    width:380px;
+    height:390px;
+    border: 1px solid #ccc;
+    background-color: #0b1c3f;
+}
+
+.calTb td{
+    color: black;
+    width:94px;
+    height:76px;
+    text-align: center;
+    background-color: white;
+}
