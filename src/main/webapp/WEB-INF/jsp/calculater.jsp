@@ -8,7 +8,12 @@
     <div class="calBox">
         <%-- 계산 화면 --%>
         <div class="cal_screen">
+            <div class="ing">
 
+            </div>
+            <div class="resultBox">
+                54,389
+            </div>
         </div>
         <%-- 패드 --%>
         <div class="cal_buttons">
